@@ -11,22 +11,22 @@
 
 ## Installation
 
-Si cela n'est pas encore fait, installer [npm](https://nodejs.org/fr/). *(De préférence la version LTS)*
+- Si cela n'est pas encore fait, installer [npm](https://nodejs.org/fr/). *(De préférence la version LTS)*
 
-Ensuite faites cette commande de le terminal de votre dossier ou vous avez mis le template :
+- Ensuite faites cette commande de le terminal de votre dossier ou vous avez mis le template :
 
 ```javascript
 npm install
 ```
-(Vous ne savez pas comment ouvrir le terminal d'un dossier [rendez vous ici](https://github.com/TheHuman00/bot-insta-template/blob/master/TERMINAL.md))
+*(Vous ne savez pas comment ouvrir le terminal d'un dossier [rendez vous ici](https://github.com/TheHuman00/bot-insta-template/blob/master/TERMINAL.md))*
 
-Vous devrez ensuite configurer votre fichier `config.js` ce trouvant à la racine
-- **defaultPrefix** sera votre préfix par défault
+- Vous devrez ensuite configurer votre fichier `config.js` ce trouvant à la racine
+     - **defaultPrefix** sera votre préfix par défault
 
 
-Vous devrez ensuite configurer votre fichier `.env` ce trouvant à la racine
-- Mettez vos identifiens du compte instagram au endroit approprié
-- Ensuite y inscrire votre **lien mongoDB**. ([Comment avoir un lien mongoDB ?](https://github.com/TheHuman00/bot-insta-template/blob/master/MONGODB.md))
+- Vous devrez ensuite configurer votre fichier `.env` ce trouvant à la racine
+     - Mettez vos identifiens du compte instagram au endroit approprié
+     - Ensuite y inscrire votre **lien mongoDB**. ([Comment avoir un lien mongoDB ?](https://github.com/TheHuman00/bot-insta-template/blob/master/MONGODB.md))
 
 
 ## Démarrer le bot
@@ -45,28 +45,28 @@ Ensuite vous aurez une message **PRET** donnant les statistiques du compte et ce
 # Commande Disponible
 
 ## Bot
-- !ping: Voir le ping du bot.
-- !help: Voir toute les commandes que le bot a.
-- !eval: Lancer un code javascript.
-- !prefix: Changer le préfixe du bot pour les groupes ou les discussions privées.
+- /ping: Voir le ping du bot.
+- /help: Voir toute les commandes que le bot a.
+- /eval: Lancer un code javascript.
+- /prefix: Changer le préfixe du bot pour les groupes ou les discussions privées.
 
 ## Jeux
-- !numero: Trouvez un nombre entre 1 et 100 en 2 minutes.
+- /numero: Trouvez un nombre entre 1 et 100 en 2 minutes.
 
 ## Images 
 Envoie votre photo de profil avec un petit montage
 
-- !annonce
-- !beau
-- !flou
-- !gay
-- !poubelle
-- !poutine.
-- !rip.
-- !supprimer
+- /annonce
+- /beau
+- /flou
+- /gay
+- /poubelle
+- /poutine.
+- /rip.
+- /supprimer
 
 ## Utils
-- !mesinfos: Voir les infos de votre compte.
+- /mesinfos: Voir les infos de votre compte.
 
 
 # Crédits
