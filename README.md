@@ -3,10 +3,10 @@
 -    [Installation](#Installation)
 -    [Démarrer le bot](#Démarrer-le-bot)
 -    [Commande Disponible](#Commande-Disponible)
-    -    [Commande bot](#Bot)
-    -    [Commande Jeux](#Jeux)
-    -    [Commande Images](#Images)
-    -    [Commande Utils](#Utils)
+     -    [Commande bot](#Bot)
+     -    [Commande Jeux](#Jeux)
+     -    [Commande Images](#Images)
+     -    [Commande Utils](#Utils)
 -    [Crédits](#Crédits)
 
 ## Installation
