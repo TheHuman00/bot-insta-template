@@ -45,28 +45,28 @@ Ensuite vous aurez une message **PRET** donnant les statistiques du compte et ce
 # Commande Disponible
 
 ## Bot
-- /ping: Voir le ping du bot.
-- /help: Voir toute les commandes que le bot a.
-- /eval: Lancer un code javascript.
-- /prefix: Changer le préfixe du bot pour les groupes ou les discussions privées.
+- `/ping`: Voir le ping du bot.
+- `/help`: Voir toute les commandes que le bot a.
+- `/eval`: Lancer un code javascript.
+- `/prefix`: Changer le préfixe du bot pour les groupes ou les discussions privées.
 
 ## Jeux
-- /numero: Trouvez un nombre entre 1 et 100 en 2 minutes.
+- `/numero`: Trouvez un nombre entre 1 et 100 en 2 minutes.
 
 ## Images 
 Envoie votre photo de profil avec un petit montage
 
-- /annonce
-- /beau
-- /flou
-- /gay
-- /poubelle
-- /poutine.
-- /rip.
-- /supprimer
+- `/annonce`
+- `/beau`
+- `/flou`
+- `/gay`
+- `/poubelle`
+- `/poutine`
+- `/rip`
+- `/supprimer`
 
 ## Utils
-- /mesinfos: Voir les infos de votre compte.
+- `/mesinfos`: Voir les infos de votre compte.
 
 
 # Crédits
